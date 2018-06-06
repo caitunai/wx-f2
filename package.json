@@ -1,0 +1,27 @@
+{
+  "name": "wx-f2",
+  "version": "1.0.0",
+  "description": "use antv-f2 in wechat mini programm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitunai/wx-f2.git"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "weapp",
+    "wechatapp",
+    "antv",
+    "antv-f2"
+  ],
+  "author": "newbing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caitunai/wx-f2/issues"
+  },
+  "homepage": "https://github.com/caitunai/wx-f2#readme"
+}
