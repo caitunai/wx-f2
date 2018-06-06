@@ -6903,7 +6903,6 @@ module.exports = AxisController;
 
 var Abstract = __webpack_require__(15);
 
-// require('./circle');
 __webpack_require__(47);
 
 module.exports = Abstract;
