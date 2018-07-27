@@ -1,6 +1,6 @@
 {
   "name": "wx-f2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use antv-f2 in wechat mini programm",
   "main": "app.js",
   "scripts": {
